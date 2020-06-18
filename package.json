@@ -1,0 +1,18 @@
+{
+  "name": "flappy-helios",
+  "version": "1.0.0",
+  "main": "src/play.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeTerminal/flappy-helios.git"
+  },
+  "author": "TimeTerminal",
+  "type": "module",
+  "scripts": {
+    "scss": "node-sass scss/index.scss styles/index.css"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

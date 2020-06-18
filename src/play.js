@@ -1,7 +1,7 @@
-import { SCORE, BEST } from "./constants";
+// import { SCORE, BEST } from "./constants.js";
 
 const play = function () {
-  const score = SCORE;
+  // const score = SCORE;
   console.log("Game has started");
 };
 
